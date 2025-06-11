@@ -2632,6 +2632,9 @@
         <mxCell id="pII_jBV2Qt1nteOEB5Jx-7" value="Node attribute input" style="text;whiteSpace=wrap;fontSize=40;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1184" y="2530" width="449" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="pII_jBV2Qt1nteOEB5Jx-8" value="Node attribute input" style="text;whiteSpace=wrap;fontSize=40;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1174" y="2540" width="449" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
