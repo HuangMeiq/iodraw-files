@@ -2635,8 +2635,8 @@
         <mxCell id="pII_jBV2Qt1nteOEB5Jx-8" value="Rule generator" style="text;whiteSpace=wrap;fontSize=40;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1141" y="3260" width="449" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pII_jBV2Qt1nteOEB5Jx-9" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;node:&lt;/b&gt; User、Item&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Edge type:&lt;/b&gt; click、cart、buy、collect&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-935" y="2480" width="650" height="110" as="geometry" />
+        <mxCell id="pII_jBV2Qt1nteOEB5Jx-9" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;node:&lt;/b&gt; User、Item&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;Edge type:&lt;/b&gt; click、cart、buy、collect&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; font-size: 40px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Sub-adjacency matrix:&lt;/b&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 40px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Generate A₁ (click), A₂ (cart), A₃ (buy), and A₄ (collect)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-935" y="2455" width="1310" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
