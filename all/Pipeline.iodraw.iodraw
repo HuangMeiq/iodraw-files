@@ -2635,8 +2635,8 @@
         <mxCell id="pII_jBV2Qt1nteOEB5Jx-8" value="Rule generator" style="text;whiteSpace=wrap;fontSize=40;fontFamily=Times New Roman;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1141" y="3260" width="449" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="pII_jBV2Qt1nteOEB5Jx-9" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;node:User、Item&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-595" y="2370" width="330" height="60" as="geometry" />
+        <mxCell id="pII_jBV2Qt1nteOEB5Jx-9" value="&lt;span style=&quot;font-size: 40px;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;node: User、Item&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-585" y="2370" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
