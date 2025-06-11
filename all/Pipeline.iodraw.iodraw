@@ -2627,7 +2627,7 @@
           <mxGeometry x="-880" y="845" width="1108.7" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="pII_jBV2Qt1nteOEB5Jx-6" value="Topological relationship input" style="text;whiteSpace=wrap;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="-1027" y="2330" width="400" height="40" as="geometry" />
+          <mxGeometry x="-1184" y="2370" width="687" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
