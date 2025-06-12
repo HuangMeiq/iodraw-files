@@ -2897,6 +2897,9 @@
         <mxCell id="yDOqufbKl8auU4ZTP_rL-83" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;A&lt;sub&gt;topo&lt;/sub&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-390" y="2240" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-84" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: KaTeX_Math; font-size: 18.15px; font-style: italic; text-align: left;&quot;&gt;γ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="2318.59" width="30" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
