@@ -2817,10 +2817,10 @@
           <mxGeometry x="-562" y="2470" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-56" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;U_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-927" y="2680" width="60" height="60" as="geometry" />
+          <mxGeometry x="-930" y="2730" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="2680" width="60" height="60" as="geometry" />
+          <mxGeometry x="-830" y="2730" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
