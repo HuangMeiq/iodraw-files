@@ -2900,6 +2900,12 @@
         <mxCell id="yDOqufbKl8auU4ZTP_rL-84" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-family: KaTeX_Math; font-size: 18.15px; font-style: italic; text-align: left;&quot;&gt;γ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-385" y="2318.59" width="30" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-85" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="yDOqufbKl8auU4ZTP_rL-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-380" y="2420" as="sourcePoint" />
+            <mxPoint x="-330" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
