@@ -2632,7 +2632,7 @@
         <mxCell id="KyvHYkMcfqFqK4ajdYuN-7" value="Node: User, Item&lt;div&gt;Edge types: click, cart, buy, collect&lt;/div&gt;&lt;div&gt;Generate sub-adjacency matrices: Generate A1 (click), A2 (cart), A3 (buy), A4 (collect)&lt;/div&gt;&lt;div&gt;Topological aggregation:&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-940" y="2210" width="480" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-1" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;user&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;user&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="2320" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-2" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;item&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
