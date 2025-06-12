@@ -2630,7 +2630,7 @@
           <mxGeometry x="-880" y="845" width="1108.7" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="KyvHYkMcfqFqK4ajdYuN-6" value="&lt;b&gt;Topological relationship input&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="2170" width="190" height="30" as="geometry" />
+          <mxGeometry x="-920" y="2360" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KyvHYkMcfqFqK4ajdYuN-7" value="Node: User, Item&lt;div&gt;Edge types: click, cart, buy, collect&lt;/div&gt;&lt;div&gt;Generate sub-adjacency matrices: Generate A1 (click), A2 (cart), A3 (buy), A4 (collect)&lt;/div&gt;&lt;div&gt;Topological aggregation:&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-940" y="2210" width="480" height="70" as="geometry" />
