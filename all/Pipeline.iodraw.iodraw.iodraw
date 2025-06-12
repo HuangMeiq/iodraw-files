@@ -2993,16 +2993,10 @@
         <mxCell id="yDOqufbKl8auU4ZTP_rL-127" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Rule feature R&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-377" y="2500" width="127" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-129" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-133" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-250" y="2529.23" as="sourcePoint" />
-            <mxPoint x="-220" y="2529" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-131" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-200" y="2480" as="sourcePoint" />
-            <mxPoint x="-120" y="2480" as="targetPoint" />
+            <mxPoint x="-240" y="2500" as="sourcePoint" />
+            <mxPoint x="-190" y="2450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
