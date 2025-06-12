@@ -5,9 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yDOqufbKl8auU4ZTP_rL-59" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1042" y="2600" width="530" height="250" as="geometry" />
+          <mxGeometry x="-1042" y="2600" width="530" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-55" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-55" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-1042" y="2160" width="530" height="430" as="geometry" />
         </mxCell>
         <mxCell id="7WJggict4z3YQvANdMYn-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -2829,7 +2829,7 @@
           <mxGeometry x="-912" y="2740" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Node attribute input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="2610" width="170" height="30" as="geometry" />
+          <mxGeometry x="-955" y="2610" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
