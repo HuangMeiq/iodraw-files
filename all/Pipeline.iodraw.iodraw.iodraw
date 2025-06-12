@@ -2822,10 +2822,10 @@
         <mxCell id="yDOqufbKl8auU4ZTP_rL-54" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;A&lt;sub&gt;topo&lt;/sub&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-562" y="2470" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-56" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;U_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-56" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;U_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="-865" y="2660" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="-765" y="2660" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-58" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;User Attributes: Age, preferences, etc&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Item Attributes: Category, price, etc&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
