@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram id="syWLSZNHojEgAdXigCow" name="第 1 页">
-    <mxGraphModel dx="1399" dy="1432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1606" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3013,9 +3013,12 @@
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-137" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-190" y="2690" as="sourcePoint" />
-            <mxPoint x="-130" y="2690" as="targetPoint" />
+            <mxPoint x="-193.73" y="2689.78" as="sourcePoint" />
+            <mxPoint x="-120" y="2690" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-138" value="Feature concatenation" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="2620" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
