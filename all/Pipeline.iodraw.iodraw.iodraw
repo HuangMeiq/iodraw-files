@@ -2826,10 +2826,10 @@
           <mxGeometry x="-955" y="2660" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-57" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-940" y="2750" width="60" height="60" as="geometry" />
+          <mxGeometry x="-955" y="2750" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-58" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;User Attributes: Age, preferences, etc&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Item Attributes: Category, price, etc&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1010" y="2830" width="270" height="50" as="geometry" />
+          <mxGeometry x="-1020" y="2830" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-60" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Node attribute input&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1010" y="2610" width="170" height="30" as="geometry" />
