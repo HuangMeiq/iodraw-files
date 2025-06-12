@@ -2987,7 +2987,7 @@
         <mxCell id="yDOqufbKl8auU4ZTP_rL-125" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Dynamic adjacency fusion&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-367" y="2130" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-126" value="Original feature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-126" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Original feature&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-377" y="2410" width="107" height="50" as="geometry" />
         </mxCell>
       </root>
