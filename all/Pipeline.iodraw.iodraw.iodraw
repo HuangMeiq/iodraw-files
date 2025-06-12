@@ -2795,13 +2795,13 @@
             <mxPoint x="-630" y="2509.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-657" y="2560" as="sourcePoint" />
             <mxPoint x="-630" y="2560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-52" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-630" y="2410" as="sourcePoint" />
             <mxPoint x="-630" y="2560" as="targetPoint" />
