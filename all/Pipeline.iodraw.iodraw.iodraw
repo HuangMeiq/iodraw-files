@@ -2870,6 +2870,18 @@
             <mxPoint x="-600" y="2689.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-77" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-632" y="2779.72" as="sourcePoint" />
+            <mxPoint x="-600" y="2779.72" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-620" y="2800" as="sourcePoint" />
+            <mxPoint x="-570" y="2750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
