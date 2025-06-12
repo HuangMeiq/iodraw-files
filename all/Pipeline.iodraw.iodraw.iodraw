@@ -2629,8 +2629,8 @@
         <mxCell id="KyvHYkMcfqFqK4ajdYuN-6" value="Topological relationship input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-895" y="2170" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KyvHYkMcfqFqK4ajdYuN-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-815" y="2278" width="50" height="30" as="geometry" />
+        <mxCell id="KyvHYkMcfqFqK4ajdYuN-7" value="node:User、Item&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="2225" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
