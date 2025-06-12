@@ -2841,13 +2841,13 @@
           <mxGeometry x="-692" y="2660" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-68" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;U_attr&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-955" y="2660" width="60" height="60" as="geometry" />
+          <mxGeometry x="-950" y="2660" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-69" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I_attr&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-692" y="2750" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yDOqufbKl8auU4ZTP_rL-70" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;I_attr&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-955" y="2750" width="60" height="60" as="geometry" />
+          <mxGeometry x="-950" y="2750" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
