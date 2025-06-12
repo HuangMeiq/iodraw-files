@@ -3017,8 +3017,8 @@
             <mxPoint x="-120" y="2690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yDOqufbKl8auU4ZTP_rL-138" value="Feature concatenatio" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-238.73000000000002" y="2550" width="150" height="40" as="geometry" />
+        <mxCell id="yDOqufbKl8auU4ZTP_rL-139" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="2538" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
