@@ -20,7 +20,10 @@
           <mxGeometry x="280" y="320" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vtDU6-ghWjP2wBD4vmQy-6" value="规则量化为特征向量R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="330" width="160" height="80" as="geometry" />
+          <mxGeometry x="80" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vtDU6-ghWjP2wBD4vmQy-7" value="规则量化为特征向量R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="330" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
