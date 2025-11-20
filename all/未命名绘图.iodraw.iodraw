@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vtDU6-ghWjP2wBD4vmQy-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vtDU6-ghWjP2wBD4vmQy-1" target="vtDU6-ghWjP2wBD4vmQy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vtDU6-ghWjP2wBD4vmQy-1" value="&lt;div&gt;输入数据：实体映射/图结构/关系映&lt;span style=&quot;background-color: initial;&quot;&gt;射/节点属性&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="160" height="80" as="geometry" />
         </mxCell>
@@ -22,7 +25,7 @@
         <mxCell id="vtDU6-ghWjP2wBD4vmQy-6" value="与节点属性X拼接为混合特征Xconcat" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vtDU6-ghWjP2wBD4vmQy-7" value="规则量化为特征向量R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vtDU6-ghWjP2wBD4vmQy-7" value="输出归一化混合输入特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="440" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
