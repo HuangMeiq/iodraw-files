@@ -16,8 +16,8 @@
         <mxCell id="vtDU6-ghWjP2wBD4vmQy-4" value="&lt;div&gt;FastAGED工具：&lt;/div&gt;&lt;div&gt;计算图编辑距离→筛&lt;span style=&quot;background-color: initial;&quot;&gt;选核心规则&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="320" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vtDU6-ghWjP2wBD4vmQy-5" value="&lt;div&gt;FastAGED工具：&lt;/div&gt;&lt;div&gt;计算图编辑距离→筛&lt;span style=&quot;background-color: initial;&quot;&gt;选核心规则&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="680" width="160" height="80" as="geometry" />
+        <mxCell id="vtDU6-ghWjP2wBD4vmQy-5" value="规则量化为特征向量R" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="570" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
