@@ -28,6 +28,9 @@
         <mxCell id="3e6OH0FypbQlZI2oz86U-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;质量评估&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-400" y="2150" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="3e6OH0FypbQlZI2oz86U-10" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;质量评估&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-400" y="2260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
