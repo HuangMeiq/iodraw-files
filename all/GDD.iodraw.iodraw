@@ -35,7 +35,7 @@
           <mxGeometry x="-673.17" y="780" width="393.17" height="410" as="geometry" />
         </mxCell>
         <mxCell id="3e6OH0FypbQlZI2oz86U-13" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="-360" y="980" width="90" height="60" as="geometry" />
+          <mxGeometry x="10" y="880" width="250" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
