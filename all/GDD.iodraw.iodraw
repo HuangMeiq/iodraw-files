@@ -91,7 +91,7 @@
         <mxCell id="3e6OH0FypbQlZI2oz86U-34" value="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Data aggregation&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="1770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3e6OH0FypbQlZI2oz86U-35" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px; font-weight: normal;&quot;&gt;GDD挖掘&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3e6OH0FypbQlZI2oz86U-35" value="&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;GDD mining&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-180" y="1880" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3e6OH0FypbQlZI2oz86U-36" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;GDD应用&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
