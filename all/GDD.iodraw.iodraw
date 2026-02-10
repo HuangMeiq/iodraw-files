@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OdHlC07gxuCZOprOS9gf">
-    <mxGraphModel dx="2356" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1889" dy="159" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,7 +122,10 @@
           <mxGeometry x="420" y="1880" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3e6OH0FypbQlZI2oz86U-43" value="┌───────────────────────────────────────────────────────┐&#xa;│                   算法：自动确定最佳分段数                           │&#xa;└───────────────────────────────────────────────────────┘&#xa;                              │&#xa;                              ▼&#xa;                    ┌─────────────────┐&#xa;                    │  输入：同一实体  │&#xa;                    │  同一属性所有值  │&#xa;                    └────────┬────────┘&#xa;                             │&#xa;                             ▼&#xa;                   ┌─────────────────────┐&#xa;                   │ 两两计算相似度       │&#xa;                   │ (莱文斯坦距离)       │&#xa;                   │ 得到N*(N-1)/2个值    │&#xa;                   └────────┬────────────┘&#xa;                            │&#xa;                            ▼&#xa;                  ┌─────────────────────┐&#xa;                  │ 去重相似度值         │&#xa;                  │ 得到唯一值列表       │&#xa;                  └────────┬────────────┘&#xa;                           │&#xa;                           ▼&#xa;                 ┌──────────────────────┐&#xa;                 │ 计算平均值和中位数    │&#xa;                 │ Step = 平均值 - 中位数│&#xa;                 └────────┬─────────────┘&#xa;                          │&#xa;                          ▼&#xa;                ┌──────────────────────┐&#xa;                │ 计算数据覆盖范围      │&#xa;                │ Range = max - min    │&#xa;                └────────┬─────────────┘&#xa;                         │&#xa;                         ▼&#xa;               ┌────────────────────────────┐&#xa;               │ 计算基础分段数             │&#xa;               │ base_segs = Range / Step   │&#xa;               └────────┬───────────────────┘&#xa;                        │&#xa;                        ▼&#xa;              ┌──────────────────────────────┐&#xa;              │ 应用比例因子调整             │&#xa;              │ factor = 去重数 / 总对数      │&#xa;              └────────┬─────────────────────┘&#xa;                       │&#xa;                       ▼&#xa;              ┌──────────────────────────────┐&#xa;              │ 计算最终分段数               │&#xa;              │ best_segment = ceil(base_segs * factor) │&#xa;              └──────────────────────────────┘&#xa;                       │&#xa;                       ▼&#xa;              ┌──────────────────────────────┐&#xa;              │  输出：最佳分段数(best_segment)│&#xa;              └──────────────────────────────┘" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-270" y="2470" width="520" height="840" as="geometry" />
+          <mxGeometry x="-520" y="2290" width="520" height="840" as="geometry" />
+        </mxCell>
+        <mxCell id="3e6OH0FypbQlZI2oz86U-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="2560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
