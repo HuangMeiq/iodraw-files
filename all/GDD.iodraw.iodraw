@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="OdHlC07gxuCZOprOS9gf">
-    <mxGraphModel dx="1694" dy="25" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3076" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -973,10 +973,10 @@
             <mxPoint x="1783.87" y="2227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NUV6gau5QR2HvkDiJFdT-393" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1605" y="1868" width="50" height="30" as="geometry" />
+        <mxCell id="NUV6gau5QR2HvkDiJFdT-393" value="Residence" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="1868" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NUV6gau5QR2HvkDiJFdT-394" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="NUV6gau5QR2HvkDiJFdT-394" value="Work" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1605" y="1928" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
