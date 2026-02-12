@@ -940,7 +940,7 @@
         <mxCell id="NUV6gau5QR2HvkDiJFdT-377" value="Person" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1416.62" y="1847" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NUV6gau5QR2HvkDiJFdT-378" value="工作地点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NUV6gau5QR2HvkDiJFdT-378" value="Work location" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1414.87" y="1897" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-379" value="城市" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
