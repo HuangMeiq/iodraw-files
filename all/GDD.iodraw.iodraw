@@ -170,13 +170,13 @@
           <mxGeometry x="799" y="1970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-203" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="1890" width="30" height="30" as="geometry" />
+          <mxGeometry x="1378.87" y="1847" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-204" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1385" y="1940" width="30" height="30" as="geometry" />
+          <mxGeometry x="1378.87" y="1897" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-205" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1383.25" y="1983" width="30" height="30" as="geometry" />
+          <mxGeometry x="1377.12" y="1940" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-206" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="809" y="1980" width="30" height="30" as="geometry" />
@@ -938,39 +938,39 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-377" value="人" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1422.75" y="1890" width="60" height="30" as="geometry" />
+          <mxGeometry x="1416.62" y="1847" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-378" value="工作地点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1421" y="1940" width="60" height="30" as="geometry" />
+          <mxGeometry x="1414.87" y="1897" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-379" value="城市" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1422.75" y="1983" width="60" height="30" as="geometry" />
+          <mxGeometry x="1416.62" y="1940" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-381" value="As shown in Figure 3.5, the circles, squares, and rhombuses represent three different entities. In the first layer of the generated tree, they are expanded based on the relevant edges. For example, in this figure, the circle represents a person, the square represents a location, and the solid lines between the circle and the square represent that this person resides here, while the dashed lines represent that this person works here. That is the meaning represented by the q12 and q11 graph patterns. Next, the graph patterns extracted from the first layer are expanded. The expansion method is to add an existing related node. If there is a relationship (edge) between the two, for example, in the above figure, q12 and q10. That is, a node of type person is added. The meaning of this graph pattern is two people working in the same place. For subgraph q3, because there are two types of relationships between people and locations, there are also two subgraphs corresponding to the expansion. Next, it continues to be expanded. The expansion is to nodes that did not appear in the previous round. In a graph pattern, if the same node type appears more than three times, the information it covers is often redundant. Therefore, in this method, the maximum number of nodes of the same type in the generated graph patterns is two. At the same time, after generating the graph patterns, the edges are matched with isomorphic subgraphs, and the matching results and the number of subgraphs are recorded. If the number of subgraphs is less than the given support degree, the expansion is not carried out any longer, or if the graph pattern is closed, the expansion is stopped. For example, q9 is a subgraph of q6, but their support degrees are the same (both 3), so q6 is closed and thus q6 does not continue to be expanded." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="2110" width="760" height="210" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-385" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1910" width="30" height="30" as="geometry" />
+          <mxGeometry x="1503.87" y="1867" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-386" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1910" width="30" height="30" as="geometry" />
+          <mxGeometry x="1553.87" y="1867" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-387" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="NUV6gau5QR2HvkDiJFdT-385" target="NUV6gau5QR2HvkDiJFdT-386">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1740" y="2260" as="sourcePoint" />
-            <mxPoint x="1790" y="2210" as="targetPoint" />
+            <mxPoint x="1733.87" y="2217" as="sourcePoint" />
+            <mxPoint x="1783.87" y="2167" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-390" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1510" y="1970" width="30" height="30" as="geometry" />
+          <mxGeometry x="1503.87" y="1927" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-391" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="1970" width="30" height="30" as="geometry" />
+          <mxGeometry x="1553.87" y="1927" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-392" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NUV6gau5QR2HvkDiJFdT-390" target="NUV6gau5QR2HvkDiJFdT-391">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1740" y="2320" as="sourcePoint" />
-            <mxPoint x="1790" y="2270" as="targetPoint" />
+            <mxPoint x="1733.87" y="2277" as="sourcePoint" />
+            <mxPoint x="1783.87" y="2227" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
