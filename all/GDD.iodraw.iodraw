@@ -974,7 +974,7 @@
           <mxGeometry x="1355" y="1951" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NUV6gau5QR2HvkDiJFdT-395" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;The main point is that it transforms the traditional segmentation parameters that require manual trial and error into a completely data-driven and interpretable calculation process.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="629.5" y="2790" width="610" height="60" as="geometry" />
+          <mxGeometry x="375.75" y="2810" width="840.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
