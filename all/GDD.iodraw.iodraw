@@ -985,6 +985,9 @@
         <mxCell id="ncUBmyZhUkcIFDySa8O0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-2" target="ncUBmyZhUkcIFDySa8O0-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-2" target="ncUBmyZhUkcIFDySa8O0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ncUBmyZhUkcIFDySa8O0-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2960" width="40" height="40" as="geometry" />
         </mxCell>
@@ -1012,11 +1015,14 @@
             <mxPoint x="180" y="3040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ncUBmyZhUkcIFDySa8O0-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-1">
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-1" target="ncUBmyZhUkcIFDySa8O0-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="130" y="3090" as="sourcePoint" />
             <mxPoint x="180" y="3040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-15" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; text-wrap-mode: wrap;&quot;&gt;τ = 2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="2978" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
