@@ -1030,8 +1030,11 @@
         <mxCell id="ncUBmyZhUkcIFDySa8O0-19" value="边 A-B、B-C、C-D、D-E、E-F、A-F、B-E 共 7 次，支持度 7 ≥ 2，所以 P 是频繁的。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-22.13" y="3148" width="480" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ncUBmyZhUkcIFDySa8O0-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-75" y="3188" width="50" height="30" as="geometry" />
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-20" value="Q" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="3200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-22.129999999999995" y="3210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
