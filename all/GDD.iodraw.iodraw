@@ -976,11 +976,20 @@
         <mxCell id="NUV6gau5QR2HvkDiJFdT-395" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;The main point is that it transforms the traditional segmentation parameters that require manual trial and error into a completely data-driven and interpretable calculation process.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="457.87" y="2810" width="654.25" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-1" target="ncUBmyZhUkcIFDySa8O0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ncUBmyZhUkcIFDySa8O0-1" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-120" y="2960" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-2" target="ncUBmyZhUkcIFDySa8O0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ncUBmyZhUkcIFDySa8O0-2" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-40" y="2960" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ncUBmyZhUkcIFDySa8O0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ncUBmyZhUkcIFDySa8O0-3" target="ncUBmyZhUkcIFDySa8O0-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ncUBmyZhUkcIFDySa8O0-3" value="C" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="40" y="2960" width="40" height="40" as="geometry" />
