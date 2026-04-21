@@ -2823,7 +2823,7 @@
             <mxRectangle width="292" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWcuFXBSIBfThZOKPefJ-91" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="TWcuFXBSIBfThZOKPefJ-91" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1180" y="190" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TWcuFXBSIBfThZOKPefJ-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="TWcuFXBSIBfThZOKPefJ-91" source="TWcuFXBSIBfThZOKPefJ-81" target="TWcuFXBSIBfThZOKPefJ-82">
