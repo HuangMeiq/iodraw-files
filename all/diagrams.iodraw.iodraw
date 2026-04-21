@@ -2705,7 +2705,7 @@
             <mxRectangle width="123" height="45" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWcuFXBSIBfThZOKPefJ-67" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-65">
+        <mxCell id="TWcuFXBSIBfThZOKPefJ-67" value="Graph pattern" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-65">
           <mxGeometry x="123" width="124" height="45" as="geometry">
             <mxRectangle width="124" height="45" as="alternateBounds" />
           </mxGeometry>
