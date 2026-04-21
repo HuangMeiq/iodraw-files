@@ -2718,7 +2718,7 @@
         <mxCell id="TWcuFXBSIBfThZOKPefJ-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-64">
           <mxGeometry y="50" width="640" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="TWcuFXBSIBfThZOKPefJ-70" value="Yelp-rule1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-69">
+        <mxCell id="TWcuFXBSIBfThZOKPefJ-70" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Yelp-rule1&lt;/font&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-69">
           <mxGeometry width="212" height="76" as="geometry">
             <mxRectangle width="212" height="76" as="alternateBounds" />
           </mxGeometry>
