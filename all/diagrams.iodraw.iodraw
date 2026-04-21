@@ -2526,7 +2526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wTFoTmHIPGEnRKfNPKYF" name="rules">
-    <mxGraphModel dx="825" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1467" dy="980" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2772,7 +2772,7 @@
         <mxCell id="TWcuFXBSIBfThZOKPefJ-97" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-64">
           <mxGeometry y="281" width="720" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="TWcuFXBSIBfThZOKPefJ-98" value="&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-97">
+        <mxCell id="TWcuFXBSIBfThZOKPefJ-98" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;IMDB-rule&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-97">
           <mxGeometry width="150" height="76" as="geometry">
             <mxRectangle width="150" height="76" as="alternateBounds" />
           </mxGeometry>
