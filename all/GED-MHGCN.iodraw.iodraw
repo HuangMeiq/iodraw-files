@@ -2784,7 +2784,7 @@
             <mxRectangle width="482" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmonpw69SeG6rYlIl-7p-4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-77">
+        <mxCell id="Qmonpw69SeG6rYlIl-7p-4" value="Authors whose first publication date is no later than 2000 are more likely to have their papers accepted by top conferences." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-77">
           <mxGeometry x="910" width="360" height="76" as="geometry">
             <mxRectangle width="360" height="76" as="alternateBounds" />
           </mxGeometry>
