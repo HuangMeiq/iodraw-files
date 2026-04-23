@@ -2800,7 +2800,7 @@
             <mxRectangle width="278" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TWcuFXBSIBfThZOKPefJ-104" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="TWcuFXBSIBfThZOKPefJ-101" vertex="1">
+        <mxCell id="TWcuFXBSIBfThZOKPefJ-104" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-style: italic; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;ϕ&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 18px; font-style: italic; white-space: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;ψ&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="TWcuFXBSIBfThZOKPefJ-101" vertex="1">
           <mxGeometry x="428" width="482" height="76" as="geometry">
             <mxRectangle width="482" height="76" as="alternateBounds" />
           </mxGeometry>
