@@ -2807,7 +2807,7 @@
             <mxRectangle width="482" height="119" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmonpw69SeG6rYlIl-7p-5" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-97">
+        <mxCell id="Qmonpw69SeG6rYlIl-7p-5" value="Papers with more than one author are more likely to be accepted by top conferences." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-97">
           <mxGeometry x="910" width="360" height="119" as="geometry">
             <mxRectangle width="360" height="119" as="alternateBounds" />
           </mxGeometry>
@@ -2830,7 +2830,7 @@
             <mxRectangle width="482" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmonpw69SeG6rYlIl-7p-6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-101">
+        <mxCell id="Qmonpw69SeG6rYlIl-7p-6" value="Reviews with a rating of 4.0 or higher, and their sentiment labels are positive." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-101">
           <mxGeometry x="910" width="360" height="76" as="geometry">
             <mxRectangle width="360" height="76" as="alternateBounds" />
           </mxGeometry>
@@ -2853,7 +2853,7 @@
             <mxRectangle width="482" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Qmonpw69SeG6rYlIl-7p-7" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-105">
+        <mxCell id="Qmonpw69SeG6rYlIl-7p-7" value="When there is an intersection between the user&#39;s preference type and the movie type, the recommendation tag is set to 1." style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TWcuFXBSIBfThZOKPefJ-105">
           <mxGeometry x="910" width="360" height="76" as="geometry">
             <mxRectangle width="360" height="76" as="alternateBounds" />
           </mxGeometry>
