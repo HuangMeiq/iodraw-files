@@ -2526,7 +2526,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wTFoTmHIPGEnRKfNPKYF" name="rules">
-    <mxGraphModel dx="264" dy="176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="455" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2948,13 +2948,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qmonpw69SeG6rYlIl-7p-30" value="M" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="760" width="40" height="40" as="geometry" />
+          <mxGeometry x="1095" y="760" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qmonpw69SeG6rYlIl-7p-31" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: KaTeX_Main, &amp;quot;Times New Roman&amp;quot;, serif; font-size: 12.705px; background-color: rgb(255, 255, 255);&quot;&gt;REVIEWS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="750" width="80" height="30" as="geometry" />
+          <mxGeometry x="1130" y="750" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qmonpw69SeG6rYlIl-7p-32" value="P" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="760" width="40" height="40" as="geometry" />
+          <mxGeometry x="1200" y="760" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Qmonpw69SeG6rYlIl-7p-37" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1190" y="540" width="160" height="50" as="geometry" />
@@ -2971,8 +2971,8 @@
         <mxCell id="Qmonpw69SeG6rYlIl-7p-36" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: KaTeX_Main, &amp;quot;Times New Roman&amp;quot;, serif; font-size: 12.705px; background-color: rgb(255, 255, 255);&quot;&gt;REVIEWS&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Qmonpw69SeG6rYlIl-7p-37">
           <mxGeometry x="35" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qmonpw69SeG6rYlIl-7p-39" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: KaTeX_Main, &amp;quot;Times New Roman&amp;quot;, serif; font-size: 12.705px; background-color: rgb(255, 255, 255);&quot;&gt;WROTE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="750" width="70" height="30" as="geometry" />
+        <mxCell id="Qmonpw69SeG6rYlIl-7p-39" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: KaTeX_Main, &amp;quot;Times New Roman&amp;quot;, serif; font-size: 12.705px; background-color: rgb(255, 255, 255);&quot;&gt;WRITE&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="750" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
