@@ -4729,7 +4729,7 @@
             <mxPoint x="-425" y="1154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BeBt2Q6_G8-PlF74JoW4-589" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.5;" edge="1" parent="1">
+        <mxCell id="BeBt2Q6_G8-PlF74JoW4-589" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=0.5;endSize=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-426.02" y="1150.09" as="sourcePoint" />
             <mxPoint x="-410" y="1150" as="targetPoint" />
