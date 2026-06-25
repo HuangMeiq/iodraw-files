@@ -8213,7 +8213,7 @@
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="464" width="170" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;container=1;" vertex="1" parent="1">
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="464" width="140" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-69" value="Graph Sampling&lt;div&gt;(large graphs only)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
