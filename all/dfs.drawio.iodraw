@@ -8027,7 +8027,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLyUOFngkfarP8qLQkqo" name="第 18 页">
-    <mxGraphModel dx="1688" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1157" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8047,10 +8047,10 @@
           <mxGeometry x="780" y="299" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-13" value="Phase 4: GDD Mining &amp;amp;&amp;nbsp;Rule Pruning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="990" y="190" width="220" height="30" as="geometry" />
+          <mxGeometry x="1000" y="200" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-14" value="1. Adaptive Threshold Opt.&lt;div&gt;2. Blocking &amp;amp; Clustering&lt;/div&gt;&lt;div&gt;3. Candidate Gen. &amp;amp; Valid.&lt;/div&gt;&lt;div&gt;4. Logical Redundancy Removal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="252" width="230" height="110" as="geometry" />
+          <mxGeometry x="1000" y="230" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-16" value="Output: Minimal&amp;nbsp;Cover of GDDs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1285" y="190" width="190" height="30" as="geometry" />
