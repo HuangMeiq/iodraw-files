@@ -8027,12 +8027,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLyUOFngkfarP8qLQkqo" name="第 18 页">
-    <mxGraphModel dx="1397" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1688" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-82" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="680" width="485" height="330" as="geometry" />
+          <mxGeometry x="275" y="480" width="485" height="330" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-44" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="190" width="390" height="180" as="geometry" />
@@ -8163,76 +8163,83 @@
           <mxGeometry x="120" y="118" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-51" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="464" width="150" height="152" as="geometry" />
+          <mxGeometry x="770" y="479" width="150" height="331" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-52" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="570" y="850" width="210" height="152" as="geometry" />
+          <mxGeometry x="540" y="650" width="210" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-54" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="570" y="690" width="210" height="152" as="geometry" />
+          <mxGeometry x="540" y="490" width="210" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-55" value="Phase 3: Redundancy Elimination&amp;nbsp;&lt;div&gt;&amp;amp; Pseudo-table Construction&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="690" width="210" height="40" as="geometry" />
+          <mxGeometry x="535" y="490" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-56" value="Pseudo-relational Table&lt;div&gt;(attribute restoration)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="735" width="130" height="40" as="geometry" />
+          <mxGeometry x="575" y="535" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-57" value="Graph Prefix Tree&lt;div&gt;(structural pruning)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="785" width="130" height="40" as="geometry" />
+          <mxGeometry x="575" y="585" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-58" value="Phase 4: GDD Mining &amp;amp;&amp;nbsp;Rule Pruning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="865" width="220" height="30" as="geometry" />
+          <mxGeometry x="535" y="665" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-59" value="1. Adaptive Threshold Opt.&lt;div&gt;2. Blocking &amp;amp; Clustering&lt;/div&gt;&lt;div&gt;3. Candidate Gen. &amp;amp; Valid.&lt;/div&gt;&lt;div&gt;4. Logical Redundancy Removal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="585" y="906" width="180" height="70" as="geometry" />
+          <mxGeometry x="555" y="706" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-60" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="474" width="60" height="30" as="geometry" />
+          <mxGeometry x="810" y="489" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-61" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="315" y="850" width="240" height="152" as="geometry" />
+          <mxGeometry x="285" y="650" width="240" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-62" value="Phase 2: Closed Frequent&amp;nbsp;Pattern Mining&amp;nbsp;&lt;div&gt;&amp;amp; Homomorphic&amp;nbsp;Matching&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="850" width="250" height="40" as="geometry" />
+          <mxGeometry x="285" y="650" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-63" value="Spreading Method&lt;div&gt;(DFSCode extension)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="890" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="690" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-64" value="Semantic Subgraph Gen." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="940" width="140" height="40" as="geometry" />
+          <mxGeometry x="330" y="740" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-65" value="Mining &amp;amp; matching in one pass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="980" width="190" height="30" as="geometry" />
+          <mxGeometry x="310" y="780" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-67" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="315" y="690" width="240" height="152" as="geometry" />
+          <mxGeometry x="285" y="490" width="240" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="680" width="140" height="320" as="geometry" />
+          <mxGeometry x="120" y="480" width="140" height="330" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-69" value="Graph Sampling&lt;div&gt;(large graphs only)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="735" width="120" height="40" as="geometry" />
+          <mxGeometry x="342.5" y="535" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-70" value="Raw Property&amp;nbsp;Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="726" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="526" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-71" value="Phase 1: Graph Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="340" y="700" width="190" height="30" as="geometry" />
+          <mxGeometry x="310" y="500" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-72" value="Label Mapping&lt;div&gt;(ID + attr map)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="785" width="120" height="40" as="geometry" />
+          <mxGeometry x="340" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-73" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="695" width="50" height="30" as="geometry" />
+          <mxGeometry x="165" y="495" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-75" value="DBLP, IMDB, YAGO4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="785" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="585" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-77" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Minimal Cover of GDDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="509" width="130" height="40" as="geometry" />
+          <mxGeometry x="780" y="524" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-78" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Downstream Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="560" width="130" height="40" as="geometry" />
+          <mxGeometry x="780" y="575" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-83" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="120" y="430" as="sourcePoint" />
+            <mxPoint x="220" y="430" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
