@@ -8031,6 +8031,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-82" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="680" width="485" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-44" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="190" width="390" height="180" as="geometry" />
         </mxCell>
@@ -8205,7 +8208,7 @@
           <mxGeometry x="315" y="690" width="240" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-68" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="690" width="140" height="310" as="geometry" />
+          <mxGeometry x="150" y="680" width="140" height="320" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-69" value="Graph Sampling&lt;div&gt;(large graphs only)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="735" width="120" height="40" as="geometry" />
@@ -8230,9 +8233,6 @@
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-78" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Downstream Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="560" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-82" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
