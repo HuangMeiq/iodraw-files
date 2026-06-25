@@ -8047,7 +8047,7 @@
           <mxGeometry x="305" y="249" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-2" value="Raw Property&amp;nbsp;Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="249" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-4" value="Phase 1: Graph Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="190" height="30" as="geometry" />
@@ -8105,7 +8105,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-28" value="DBLP, IMDB, YAGO4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="184.76" y="280" as="sourcePoint" />
+            <mxPoint x="184.76" y="300" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
