@@ -8047,7 +8047,7 @@
           <mxGeometry x="305" y="249" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-2" value="Raw Property&amp;nbsp;Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="249" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-4" value="Phase 1: Graph Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="190" height="30" as="geometry" />
@@ -8055,11 +8055,11 @@
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-5" value="Label Mapping&lt;div&gt;(ID + attr map)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-6" value="Phase 2: Closed Frequent&amp;nbsp;Pattern Mining &amp;amp; Homomorphic&amp;nbsp;Matching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="198" width="390" height="30" as="geometry" />
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-6" value="Phase 2: Closed Frequent&amp;nbsp;Pattern Mining&amp;nbsp;&lt;div&gt;&amp;amp; Homomorphic&amp;nbsp;Matching&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="200" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-7" value="Spreading Method&lt;div&gt;(DFSCode extension)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-8" value="Semantic Subgraph Gen." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="340" width="140" height="60" as="geometry" />
@@ -8105,12 +8105,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-28" value="DBLP, IMDB, YAGO4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="130" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="184.76" y="280" as="sourcePoint" />
-            <mxPoint x="184.76" y="300" as="targetPoint" />
+            <mxPoint x="184.82999999999998" y="289" as="sourcePoint" />
+            <mxPoint x="184.82999999999998" y="309" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
