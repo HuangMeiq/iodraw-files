@@ -8210,8 +8210,8 @@
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-69" value="Graph Sampling&lt;div&gt;(large graphs only)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="735" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-70" value="Raw Property&amp;nbsp;Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="726" width="120" height="40" as="geometry" />
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-70" value="Raw&lt;div&gt;&amp;nbsp;&lt;div&gt;Property&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Graph&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="725" width="55" height="110" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-71" value="Phase 1: Graph Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="340" y="700" width="190" height="30" as="geometry" />
@@ -8223,7 +8223,7 @@
           <mxGeometry x="195" y="695" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-75" value="DBLP,&amp;nbsp;&lt;div&gt;IMDB,&amp;nbsp;&lt;/div&gt;&lt;div&gt;YAGO4&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="520" width="120" height="180" as="geometry" />
+          <mxGeometry x="192.5" y="842" width="55" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-77" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Minimal Cover of GDDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="509" width="130" height="40" as="geometry" />
