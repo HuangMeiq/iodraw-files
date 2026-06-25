@@ -8032,10 +8032,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-44" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="190" width="400" height="180" as="geometry" />
+          <mxGeometry x="970" y="190" width="390" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-42" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="204" width="160" height="152" as="geometry" />
+          <mxGeometry x="1200" y="204" width="150" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-41" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="980" y="204" width="210" height="152" as="geometry" />
@@ -8062,7 +8062,7 @@
           <mxGeometry x="995" y="260" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-16" value="Output" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="219" width="60" height="30" as="geometry" />
+          <mxGeometry x="1240" y="214" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-17" value="Downstream Apps:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1460" y="357" width="120" height="30" as="geometry" />
@@ -8136,15 +8136,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-37" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="710" y="217.52" as="sourcePoint" />
-            <mxPoint x="760" y="217.52" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-39" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Minimal Cover of GDDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1215" y="249" width="130" height="40" as="geometry" />
+          <mxGeometry x="1210" y="249" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-43" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Downstream Apps&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1210" y="300" width="130" height="40" as="geometry" />
