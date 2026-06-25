@@ -8032,7 +8032,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-40" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="417" width="210" height="83" as="geometry" />
+          <mxGeometry x="985" y="322" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-38" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="985" y="208" width="210" height="106" as="geometry" />
@@ -8056,10 +8056,10 @@
           <mxGeometry x="980" y="204" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-14" value="1. Adaptive Threshold Opt.&lt;div&gt;2. Blocking &amp;amp; Clustering&lt;/div&gt;&lt;div&gt;3. Candidate Gen. &amp;amp; Valid.&lt;/div&gt;&lt;div&gt;4. Logical Redundancy Removal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="238" width="180" height="70" as="geometry" />
+          <mxGeometry x="1000" y="229" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-16" value="Output:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="420" width="60" height="30" as="geometry" />
+          <mxGeometry x="1055" y="322" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-17" value="Downstream Apps:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1330" y="270" width="120" height="30" as="geometry" />
@@ -8141,7 +8141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-39" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;Minimal Cover of GDDs&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="450" width="130" height="40" as="geometry" />
+          <mxGeometry x="1025" y="352" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
