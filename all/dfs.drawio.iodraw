@@ -8058,6 +8058,15 @@
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-10" value="Phase 3: Redundancy Elimination&amp;nbsp;&amp;amp; Pseudo-table Construction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1060" y="198" width="360" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-11" value="Pseudo-relational Table&lt;div&gt;(attribute restoration)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="260" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-12" value="Graph Prefix Tree&lt;div&gt;(structural pruning)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-13" value="Phase 4: GDD Mining &amp;amp;&amp;nbsp;Rule Pruning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="188" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
