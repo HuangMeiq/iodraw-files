@@ -8027,21 +8027,24 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLyUOFngkfarP8qLQkqo" name="第 18 页">
-    <mxGraphModel dx="1888" dy="843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yxNGUgqCzZy-z5h_nrPg-22" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="510" width="140" height="142" as="geometry" />
+        </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-1" value="Graph Sampling&lt;div&gt;(large graphs only)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="270" width="150" height="40" as="geometry" />
+          <mxGeometry x="290" y="249" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-2" value="Raw Property&amp;nbsp;Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-4" value="Phase 1: Graph Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="198" width="190" height="30" as="geometry" />
+          <mxGeometry x="270" y="210" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-5" value="Label Mapping&lt;div&gt;(ID + attr map)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="329" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-6" value="Phase 2: Closed Frequent&amp;nbsp;Pattern Mining &amp;amp; Homomorphic&amp;nbsp;Matching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="630" y="198" width="390" height="30" as="geometry" />
@@ -8084,9 +8087,6 @@
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-21" value="Input" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="210" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yxNGUgqCzZy-z5h_nrPg-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="830" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
