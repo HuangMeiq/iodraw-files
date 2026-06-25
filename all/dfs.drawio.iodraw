@@ -8027,7 +8027,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OLyUOFngkfarP8qLQkqo" name="第 18 页">
-    <mxGraphModel dx="1157" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1397" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8089,19 +8089,19 @@
           <mxGeometry x="505" y="334" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-25" value="" style="whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="190" width="350" height="180" as="geometry" />
+          <mxGeometry x="120" y="190" width="340" height="180" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-24" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="204" width="170" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-23" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="204" width="140" height="152" as="geometry" />
+          <mxGeometry x="130" y="204" width="140" height="152" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-1" value="Graph Sampling&lt;div&gt;(large graphs only)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="249" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-2" value="Raw Property&amp;nbsp;Graph" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="249" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-4" value="Phase 1: Graph Preprocessing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="270" y="210" width="190" height="30" as="geometry" />
@@ -8120,7 +8120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-28" value="DBLP, IMDB, YAGO4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="310" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="299" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxNGUgqCzZy-z5h_nrPg-29" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
